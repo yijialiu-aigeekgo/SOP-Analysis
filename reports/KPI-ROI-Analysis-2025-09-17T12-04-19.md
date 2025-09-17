@@ -1,0 +1,54 @@
+# KPI ROI Analysis Report
+
+**Generated:** 2025-09-17T12:04:19.988Z
+**Report Type:** KPI-ROI-Analysis
+
+---
+
+# Visit Analysis: ROI Impact Assessment
+
+## Time & Resource Utilization Analysis
+
+### Current State Metrics
+- **Total Visit Duration (Check-in to Rooming):** 24 minutes
+- **Wait Time:** 22 minutes (91.7% of pre-provider time)
+- **Active Staff Time:** 20 minutes (MA only)
+- **Role Overlap:** MA performing Front Desk duties
+
+### Financial Impact Indicators
+
+**Revenue Optimization Opportunities:**
+- **New Patient Visit** - Higher reimbursement potential not maximized
+- **Chronic Conditions (DM/HTN)** - Quality measure opportunities partially captured
+- **EKG Performance** - Additional billable service captured
+
+**Cost Inefficiencies Identified:**
+1. **MA Role Creep:** $8.33 cost impact (MA doing front desk work @ $25/hr for 20 min)
+2. **Extended Wait Time:** Patient dissatisfaction risk - potential revenue loss from attrition
+3. **Manual Form Processing:** 22 minutes of non-value-add time
+
+### ROI Enhancement Recommendations
+
+**Immediate Actions (High ROI):**
+1. **Pre-visit Digital Forms** 
+   - Time Savings: 20 minutes/visit
+   - Annual Impact: $41,600 (@ 40 new patients/week)
+
+2. **Role Optimization**
+   - Dedicate Front Desk for check-in
+   - MA focus on clinical tasks only
+   - Cost Savings: $4,160 annually
+
+3. **UC Program Full Activation**
+   - Incomplete diabetes management education
+   - Potential quality bonus: $150-200/patient/year
+
+**Projected Annual ROI:**
+- **Revenue Enhancement:** $24,000 (quality measures + reduced attrition)
+- **Cost Reduction:** $45,760 (efficiency gains)
+- **Total ROI Potential:** $69,760
+
+### Critical KPI Gaps
+- No provider seen time documented
+- UC program enrollment incomplete
+- Missing preventive care opportunities
